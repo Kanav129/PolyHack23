@@ -1,8 +1,0 @@
-Input:
-Username - ZARA
-
-Output:
-- doc_topic.xlsw (https://docs.google.com/spreadsheets/d/1LsbpwXIZXxG4vC-OwQAaTPt7A3plLB_R/edit?usp=sharing&ouid=109029018681741091390&rtpof=true&sd=true)
-- Labels.xlsw (https://docs.google.com/spreadsheets/d/1G0zV61KtanIY-S5F92hZp6NvZimyeoL7/edit?usp=sharing&ouid=109029018681741091390&rtpof=true&sd=true)
-- topic_word.xlsw (https://docs.google.com/spreadsheets/d/1I3O2IAxaLLl46QV-lq2g-29WQeGxU2kF/edit?usp=sharing&ouid=109029018681741091390&rtpof=true&sd=true)
-- user.xlsw (https://docs.google.com/spreadsheets/d/1sN67znhi96hZGWZwRNKe5dB5SJhKbnsN/edit?usp=sharing&ouid=109029018681741091390&rtpof=true&sd=true)
