@@ -13,6 +13,10 @@ Our solution, Mindwave aims to improve mental health on social media by using AI
 
 ## Technology behind the solution
 
+- Google cloud vision
+- Selenium chromedriver
+- Instaloader API
+
 ## Limitations and Future Enhancements
 
 - Lack of awareness of the app
