@@ -23,4 +23,5 @@ Our solution, Mindwave aims to improve mental health on social media by using AI
 - Solution only contributes within the group of social media apps within by Meta
 - Expand our solutions to other major apps such as Linkedin, Spotify and Twitter for future data and implementation of our solution
 
-## POC Video and other links
+## POC Video
+Video: https://drive.google.com/file/d/1mo8B9stQFl8M6y_Q6YDUg3BpEP4HAhvU/view?usp=sharing
